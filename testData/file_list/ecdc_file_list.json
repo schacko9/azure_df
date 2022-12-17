@@ -1,0 +1,22 @@
+[
+	{
+	"sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"/schacko9/testdata/main/cases_deaths.csv",
+        "sinkFileName":"cases_deaths/cases_deaths.csv"
+    },
+    {
+	"sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"/schacko9/testdata/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions/hospital_admissions.csv"
+    },
+    {
+	"sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"/schacko9/testdata/main/country_response.csv",
+        "sinkFileName":"country_response/country_response.csv"
+    },
+    {
+	"sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"/schacko9/testdata/main/testing.csv",
+        "sinkFileName":"testing/testing.csv"
+    }
+]
