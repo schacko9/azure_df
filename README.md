@@ -1,4 +1,3 @@
-# azure_df
 Built a real world data pipeline in Azure Data Factory (ADF) using Covid-19 data.
 
 
